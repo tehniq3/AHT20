@@ -4,4 +4,4 @@ other library:
 - https://github.com/cbm80amiga/Arduino_ST7789_Fast
 - https://github.com/cbm80amiga/RREFont
 
- ![schematic](https://github.com/tehniq3/AHT20/blob/main/AHT20_ST7789_sch.png)
+ ![schematic](https://github.com/tehniq3/AHT20/blob/main/AHT20_ST7789_sch1.png)
